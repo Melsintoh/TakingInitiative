@@ -26,3 +26,6 @@ Ziflaj, A. (2016, April 12). Starting Android DEVELOPMENT, creating a todo app. 
 
 ![image](https://user-images.githubusercontent.com/80494929/115815331-c04b2600-a3c4-11eb-9501-9c6b577cc3da.png)
 
+![image](https://user-images.githubusercontent.com/80494929/115815373-db1d9a80-a3c4-11eb-9ab3-e085b94c9a4c.png)
+
+
